@@ -8,8 +8,12 @@ sections:
       All our websites are availble as is, at a low cost. Or as fully customised
       purpose built sites
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Either choose from our pre set website templates, stylishy createsd and
+      ready to just apply branding and information from your business or idea.
+      Not yet got content? Fear not we can provide content creation. Not seeing
+      a template you like? Or simply requie a compelte custom solutuon,
+      choosefrom some of our components and sty;e guides, and OnDevs will do the
+      rest. 
     actions:
       - label: Let's talk
         url: /contact
