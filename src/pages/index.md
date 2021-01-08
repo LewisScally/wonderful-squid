@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: >-
+      All our websites are availble as is, at a low cost. Or as fully customised
+      purpose built sites
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
